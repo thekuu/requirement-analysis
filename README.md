@@ -60,7 +60,7 @@ Non-functional requirements describe how the system performs its functions—qua
 - Clarifies roles and responsibilities.
 - Helps identify functional requirements.
 
-![alx-booking-uc](https://github.com/user-attachments/assets/ce0e3010-b2f3-490a-86ed-b9a7c34a4ba4)
+![alx-booking-uc]
 
 ## Acceptance Criteria
 
